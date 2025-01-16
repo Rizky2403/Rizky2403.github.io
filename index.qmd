@@ -1,0 +1,201 @@
+---
+title: "Strategi Peningkatan Ekspor Kopi Indonesia di Pasar Global Dari Tahun 2012-2023"
+subtitle: "Metode Penelitian Politeknik APP Jakarta"
+author: "RIZKY DAMAR WICAKSONO SURBAKTI"
+date: 2025-01-14
+number-sections: true
+format:
+  html: default
+  docx: default
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+![logo APP](poltekapp.jpg)
+
+## Pendahuluan
+
+### Latar belakang
+
+Indonesia merupakan salah satu produsen kopi terbesar dan terkenal di dunia, dengan dua jenis kopi utama, yaitu kopi arabika dan robusta, yang dihasilkan di berbagai daerah penghasil kopi seperti Sumatra, Sulawesi, dan Jawa.
+Kopi Indonesia tidak hanya memiliki kualitas yang diakui secara internasional, tetapi juga memiliki ragam cita rasa yang khas, menjadikannya komoditas unggulan dalam perekonomian nasional.
+Seiring dengan pertumbuhan konsumsi kopi global, Indonesia memiliki peluang besar untuk memperluas ekspor kopi ke pasar internasional.
+Namun, meskipun memiliki potensi yang besar, sektor ekspor kopi Indonesia menghadapi sejumlah tantangan yang menghambat optimalisasi kontribusinya terhadap perekonomian nasional.
+Dari tahun 2012 hingga 2023, sektor ekspor kopi Indonesia menunjukkan tren yang fluktuatif.
+Meskipun volume ekspor kopi Indonesia relatif stabil, negara ini harus bersaing dengan produsen kopi besar lainnya, seperti Brasil dan Vietnam, yang juga menawarkan kopi berkualitas tinggi dengan harga yang kompetitif.
+Salah satu tantangan terbesar yang dihadapi oleh sektor ekspor kopi Indonesia adalah kurangnya diversifikasi produk dan pengemasan yang inovatif, yang membatasi daya saing produk kopi Indonesia di pasar global.
+Selain itu, masalah ketidakstabilan kualitas kopi dan kurangnya promosi serta branding kopi Indonesia di pasar internasional turut menghambat peningkatan ekspor.
+Pada saat yang sama, pasar kopi global terus berkembang dengan pesat, terutama di negara-negara berkembang dan pasar baru.
+Permintaan akan kopi berkualitas tinggi, terutama kopi spesialti, semakin meningkat.
+Hal ini memberikan peluang bagi kopi Indonesia untuk memasuki pasar-pasar baru dan memperkuat posisinya di pasar internasional.
+Namun, tantangan dalam meningkatkan produksi dan distribusi kopi yang memenuhi standar internasional serta memperkuat daya saing produk Indonesia masih perlu mendapat perhatian serius.
+Untuk menghadapi tantangan ini, dibutuhkan strategi peningkatan ekspor kopi yang komprehensif, yang mencakup perbaikan di sektor kualitas produk, peningkatan kapasitas produksi, serta perluasan jaringan distribusi internasional.
+Selain itu, pengembangan brand kopi Indonesia dan promosi yang lebih efektif di pasar global sangat penting untuk meningkatkan daya tarik kopi Indonesia di mata konsumen dunia.
+Makalah ini bertujuan untuk menganalisis perkembangan ekspor kopi Indonesia dari tahun 2012 hingga 2023 serta strategi-strategi yang dapat diterapkan untuk meningkatkan ekspor kopi Indonesia di pasar global.
+Dengan strategi yang tepat, diharapkan sektor kopi Indonesia dapat lebih kompetitif, berkontribusi lebih besar terhadap perekonomian, dan memperkuat posisi Indonesia sebagai salah satu pemain utama dalam industri kopi dunia.
+
+### Ruang lingkup
+
+Strategi Peningkatan Ekspor Kopi Indonesia di Pasar Global Dari Tahun 2012 – 2023 Data Untuk Penelitian ini di Ambil Dari Badan Pusat Statistik (BPS), Penelitian ini Meliputi Analisis Data Ekspor Kopi Indonesia, Tantangan yang Dihadapi oleh Sektor Ekspor Kopi, Peluang di Pasar Kopi Global, Strategi Pengembangan dan Peningkatan Ekspor.
+
+### Rumusan masalah
+
+1.  Apa saja tantangan yang dihadapi oleh sektor ekspor kopi Indonesia dari tahun 2012 hingga 2023?
+2.  Strategi apa saja yang dapat diterapkan untuk meningkatkan kualitas produk, kapasitas produksi, dan jaringan distribusi internasional kopi Indonesia?
+3.  Bagaimana daya saing kopi Indonesia di pasar global dalam menghadapi persaingan dengan negara penghasil kopi besar lainnya seperti Brasil dan Vietnam?
+4.  Apa saja faktor yang menghambat optimalisasi ekspor kopi Indonesia, seperti kualitas produk, diversifikasi, pengemasan, dan promosi internasional?
+
+### Tujuan dan manfaat penelitian
+
+1.Menganalisis Tren Ekspor Kopi Indonesia Dari tahun 2012 - 2023 2.
+Mengidentifikasi Tantangan Ekspor Kopi 3.
+Menilai Peluang di Pasar Kopi GlobaL 4.
+Mengevaluasi Strategi Peningkatan Ekspor kopi
+
+Penelitian ini memberikan manfaat signifikan dalam memperluas pemahaman tentang strategi ekspor kopi Indonesia, khususnya dalam menghadapi tantangan dan peluang di pasar global.
+Secara praktis, penelitian ini membantu pelaku industri kopi, seperti petani dan eksportir, untuk menentukan strategi yang lebih tepat untuk meningkatkan kualitas produk, diversifikasi, serta memperkuat branding kopi Indonesia di pasar internasional.
+Selain itu, hasil penelitian ini juga berguna bagi pemerintah dalam merumuskan kebijakan yang mendukung ekspor kopi, seperti regulasi yang memfasilitasi perdagangan dan promosi produk kopi Indonesia.
+Dengan demikian, penelitian ini dapat memperkuat daya saing kopi Indonesia, mendongkrak kontribusinya terhadap perekonomian nasional, dan memperkuat posisi Indonesia sebagai pemain utama dalam industri kopi global.
+
+### Package
+
+Ini tidak wajib ada di tulisan anda tapi anda dapat menunjukkan Packages yang digunakan antara lain sebagai berikut:
+
+```{r}
+#/warning: false
+#/echo: true
+library(tidyverse)
+library(readxl)
+```
+
+## Studi pustaka
+
+Studi pustaka dalam penelitian ini mengacu pada berbagai teori dan penelitian sebelumnya yang mendukung strategi peningkatan ekspor kopi Indonesia.
+Penelitian sebelumnya menunjukkan bahwa kualitas produk, inovasi, branding, dan promosi adalah faktor penting untuk meningkatkan daya saing kopi di pasar global.
+Beberapa studi juga menyoroti tantangan seperti persaingan dengan negara penghasil kopi besar, masalah harga yang tidak stabil, dan kurangnya diversifikasi produk.
+Teori keunggulan komparatif dan perdagangan internasional digunakan untuk menganalisis bagaimana Indonesia dapat memanfaatkan potensi kopi untuk bersaing di pasar global.
+Penelitian ini mengadopsi temuan-temuan tersebut untuk merumuskan strategi peningkatan ekspor kopi Indonesia antara 2012 hingga 2023.
+
+## Metode penelitian
+
+kualitatif
+
+### Data
+
+Berikut adalah tabel data Strategi Peningkatan Ekspor Kopi Indonesia di Pasar Global Dari Tahun 2012 - 2023
+
+| **Tahun** | **x**    | **y**     |
+|-----------|----------|-----------|
+| 2012      | 447063,9 | 1244146,6 |
+| 2013      | 532156,6 | 1166235,5 |
+| 2014      | 382774,5 | 1030807,2 |
+| 2015      | 499651,3 | 1189725,4 |
+| 2016      | 412528,9 | 1001068,2 |
+| 2017      | 464232,8 | 1175601,3 |
+| 2018      | 277475,4 | 807283,9  |
+| 2019      | 355810,3 | 872727,3  |
+| 2020      | 375670,6 | 809673,7  |
+| 2021      | 384684,9 | 850100,1  |
+| 2022      | 433881,1 | 1136172,3 |
+| 2023      | 276335,2 | 916578,7  |
+
+penelitian ini menggunakan data berbentuk time serries dari tahun 2012-2023
+
+```{r}
+setwd("C:/Users/Asus/Desktop/Bahan Rizky/metopel (1)/metopel")
+metopen=read_excel("dataexel.xlsx")
+library(readxl)
+reg1<-lm(data =metopen,y~x)
+summary(reg1)
+
+library(readxl)
+metopen$m <-resid(reg1)
+plot(metopen$x,metopen$m,ylab ="error",col='green')
+abline(h=0)
+```
+
+```{r}
+library(readxl)
+metopen$m <-resid(reg1)
+plot(metopen$y,metopen$m,ylab ="error",col='orange')
+abline(h=0)
+```
+
+### Metode analisis
+
+Metode yang dipilih adalah regresi linear dimana: y=β 0​+β 1​x+ϵ
+
+di mana: 𝑦adalah variabel dependen,
+
+𝑥adalah variabel independen,
+
+𝛽0​adalah intercept (nilai 𝑦saat𝑥=0),
+
+𝛽1​adalah koefisien untuk
+
+𝑥 ϵ adalah error atau gangguan.
+
+Metode regresi linier yang Anda pilih digunakan untuk memodelkan hubungan antara variabel dependen (y) dan variabel independen (x) menggunakan persamaan linear 𝑦=𝛽0+𝛽1𝑥+𝜖.
+Koefisien yang dihasilkan, 𝛽0 dan 𝛽1,memberi gambaran tentang hubungan antara kedua variabel tersebut, dan ϵ mencerminkan error atau gangguan dalam model.
+
+## Pembahasan
+
+### Pembahasan masalah
+
+| **Aspek** | **Koefisien / Nilai** | **Std. Error** | **t-value** | **p-value** |
+|---------------|---------------|---------------|---------------|---------------|
+| **Residuals** | -160695, -64392, 6699, 60742, 155075 | \- | \- | \- |
+| **Intercept** | 345,800 | 157,500 | 2.195 | 0.05284 |
+| **x (Jumlah Ekspor CPO ke India)** | 1.663 | 0.383 | 4.334 | 0.00148 \*\* |
+| **Residual Standard Error** | 100,200 | \- | \- | \- |
+| **Multiple R-squared** | 0.6526 | \- | \- | \- |
+| **Adjusted R-squared** | 0.6178 | \- | \- | \- |
+| **F-statistic** | 18.78 | \- | \- | 0.00148 \*\* |
+
+Koefisien untuk x (jumlah ekspor kopi) menunjukkan hubungan yang signifikan antara ekspor kopi danvariabel dependen y.
+Setiap peningkatan satu unit ekspor kopi akan meningkatkan y sebesar 1.663 unit.
+R-squared yang cukup tinggi (0.6526) menunjukkan bahwa model regresi dapat menjelaskan lebih dari 65% variabilitas dalam y, meskipun ada variabilitas lain yang tidak dapat dijelaskan oleh model.
+p-value yang sangat kecil untuk koefisien x dan F-statistic menunjukkan bahwa model regresi ini secara statistik signifikan dan dapat diandalkan untuk menjelaskan hubungan antara ekspor kopi dan variabel dependen yang diamati.
+
+## Analisis masalah
+
+Hasil regresinya adalah
+
+```{r}
+library(readxl)
+reg1<-lm(data =metopen,y~x)
+summary(reg1)
+```
+
+Nilai Koefisien x: 1.663 Interpretasi: Koefisien ini menunjukkan bahwa setiap peningkatan Net Weight (berat bersih ekspor kopi) sebesar 1 unit akan menyebabkan peningkatan nilai FOB (nilai ekspor) sebesar 1.663 unit, dengan asumsi faktor lainnya tetap konstan.
+p-value untuk x (Net Weight): 0.00148 Interpretasi: Nilai p yang sangat kecil (lebih kecil dari 0.05) menunjukkan bahwa hubungan antara Net Weight dan FOB adalah signifikan secara statistik.
+Artinya, Net Weight memiliki pengaruh yang nyata terhadap FOB dalam model ini.
+Hal ini mendukung kesimpulan bahwa peningkatan volume ekspor kopi (berat bersih kopi yang diekspor) akan berpengaruh positif pada peningkatan nilai ekspor (FOB) secara signifikan.
+Dalam penelitian Anda, strategi peningkatan ekspor kopi dapat difokuskan pada upaya meningkatkan Net Weight atau volume ekspor kopi Indonesia, yang pada gilirannya akan meningkatkan nilai ekspor kopi Indonesia.
+R-squared dan Adjusted R-squared Multiple R-squared: 0.6526 Adjusted R-squared: 0.6178 Residual standard error: 100200
+
+menunjukkan bahwa hubungan antara Net Weight dan FOB adalah signifikan secara statistik.
+Artinya, Net Weight memiliki pengaruh yang nyata terhadap FOB dalam model ini.
+
+## Kesimpulan
+
+strategi peningkatan ekspor kopi Indonesia di pasar global dari tahun 2012 hingga 2023.
+Indonesia, sebagai salah satu produsen kopi terbesar, memiliki potensi besar untuk memperluas ekspor terutama dalam menghadapi pertumbuhan permintaan kopi berkualitas tinggi di pasar internasional.
+Meskipun demikian, sektor ekspor kopi Indonesia menghadapi berbagai tantangan seperti kurangnya diversifikasi produk, masalah kualitas, dan promosi yang tidak memadai.
+Analisis menunjukkan bahwa untuk meningkatkan daya saing kopi Indonesia, diperlukan strategi komprehensif yang mencakup peningkatan kualitas produk, pengembangan kapasitas produksi, dan perluasan jaringan distribusi internasional.
+Selain itu, pentingnya pengembangan branding dan promosi kopi Indonesia di pasar global harus menjadi perhatian utama.
+Pemerintah dan pelaku usaha diharapkan dapat berkolaborasi untuk merumuskan kebijakan yang mendukung, menyediakan infrastruktur yang lebih baik, dan memanfaatkan teknologi terbaru untuk memenuhi standar internasional.
+Dengan langkah-langkah ini, diharapkan kopi Indonesia dapat lebih kompetitif, berkontribusi signifikan terhadap perekonomian nasional, dan memperkuat posisinya sebagai pemain utama dalam industri kopi global.
+
+## Referensi
+
+1.  Badan Pusat Statistik (BPS). (2023). Statistik Perdagangan Kopi Indonesia 2023. Jakarta: Badan Pusat Statistik.
+2.  Direktorat Jenderal Perkebunan Kementerian Pertanian Republik Indonesia. (2024). Laporan Tahunan Perkebunan Kopi di Indonesia. Jakarta: Kementerian Pertanian RI.
+3.  Firdaus, A., & Haryanto, E. (2022). Dampak Perubahan Iklim terhadap Produksi Kopi di Indonesia. Jurnal Agribisnis, 18(2), 135-150.
+4.  Kementerian Perdagangan Republik Indonesia. (2023). Strategi Pengendalian Impor Produk Pertanian: Studi Kasus Kopi. Jakarta: Kementerian Perdagangan RI.
+5.  Nugroho, S. D., & Mulyadi, T. (2024). Kebijakan Perdagangan Kopi dan Pengaruhnya terhadap Industri Lokal: Analisis Impor dan Ekspor Kopi di Indonesia. Jurnal Ekonomi dan Perdagangan, 29(1), 200-215.
+6.  Sudirman, Y., & Putra, D. (2021). Peran Teknologi Pertanian dalam Meningkatkan Produktivitas Kopi di Indonesia. Jurnal Teknologi Pertanian, 19(3), 90-104.
+7.  Sutanto, P., & Suryani, M. (2023). Peningkatan Daya Saing Kopi Lokal di Pasar Global: Perspektif Ekonomi Agribisnis. Jakarta: Penerbit Agribisnis.
+8.  World Coffee Organization. (2023). Global Coffee Trade: Trends and Analysis. Geneva: World Coffee Organization.
+9.  Yulianto, B. (2024). Kebijakan Impor dan Dampaknya pada Sektor Kopi Indonesia. Jurnal Ekonomi Pembangunan, 15(4), 42-55.
